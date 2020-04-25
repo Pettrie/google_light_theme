@@ -1,13 +1,8 @@
-# Google Light Theme
+# Google Light Theme (Fork by Pettrie)
 A Home Assistant theme inspired on Google app Light mode.
+[Also inspired by Smart Home App - Animation](https://dribbble.com/shots/9828502-Smart-Home-App-Animation)
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
-
-[![Subscribe to YouTube channel][youtube-sub-shield]][youtubesubscribe]
-
-[![Become a Patron][become-a-patron-shield]][becomeapatron]
-
-[![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
 
 ### Screenshots
 
@@ -34,7 +29,7 @@ frontend:
 
 ### HACS installation
 1. Go into the Community Store (HACS)
-2. Search for Google Light Theme
+2. Search for xxxx
 3. Open the theme
 4. Press Install
 5. Restart Home Assistant
@@ -46,7 +41,7 @@ frontend:
 
 ### Enable theme
 1. Open your Home Assistant **Profile**
-2. Under, **Themes**, select the new Google Light Theme
+2. Under, **Themes**, select the new xxxx
 
 ### Custom Header settings
 When using the [Custom Header](https://github.com/maykar/custom-header) plugin, add the following to make sure that the header matches the theme.
@@ -61,9 +56,3 @@ custom_header:
 </pre>
 
 
-[buymeacoffee-shield]: https://i.imgur.com/Hzn2rM8.png
-[buymeacoffee]: https://www.buymeacoffee.com/JuanMTech
-[become-a-patron-shield]: https://i.imgur.com/U9BjCfc.png
-[becomeapatron]: https://www.patreon.com/JuanMTech
-[youtube-sub-shield]: https://i.imgur.com/6TAqHgi.png
-[youtubesubscribe]: https://www.youtube.com/c/JuanMTech?sub_confirmation=1
